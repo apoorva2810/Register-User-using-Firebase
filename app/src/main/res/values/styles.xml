@@ -8,4 +8,13 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <string name="email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="register">Register</string>
+
+    <string name="hint_name">Name</string>
+    <string name="hint_college">College\'s Name</string>
+    <string name="hint_phone">Phone number</string>
+
+
 </resources>
